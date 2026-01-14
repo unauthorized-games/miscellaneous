@@ -1,0 +1,29 @@
+--Games appearing in compilations
+Spiderman 2 - 6-in-1 (2004?)
+U&I Man III - (986-872B) 15000-in-1
+
+
+(0301) 4-in-1, (0503, KD-6093) 93-in-1
+These multicarts starting with 0 in the serial code like to include the Castle 2 hack of SMB1
+
+--Various references
+TechCrunch report of unknown MiWi console, calling it "Eittek MiWi" (that's a different thing) https://web.archive.org/web/20130629225454/https://techcrunch.com/2008/05/12/%E2%80%9Csomeone-just-knocked-off-miwi%E2%80%9D-says-nintendo-in-a-cockney-accent/
+Gizmodo article doing the same thing with presumably the same console https://web.archive.org/web/20200804055205/https://gizmodo.com/miwi-the-dental-hygienists-choice-of-wii-knock-off-389444
+TheGameConsole.com listing of another new MiWi VT168 console with Cube Tech games, also calling it "Eittek MiWi" https://web.archive.org/web/20120402215731/http://www.thegameconsole.com/eittek-miwi/
+French listing of Console Technigame, a rebrand of another MiWi having Subor games (also VT168 according to Taizou) http://www.x86-secret.com/dossier-40-console_technigame___miwi.html
+Emulation recording of one MiWi2's 7 in 1 cart bundled with it, same cart in the Multilaser Multigame https://www.youtube.com/watch?v=RTea1hgzg-I
+Video that shows unknown MiWi software running on MAME, showing more clearly the names of the systems in MAME, also proving the 111 & 42 in 2 cart was provided with another system
+called "MiWi 2" https://www.youtube.com/watch?v=dTa-mDLN_dE
+MiWi2 9900 review showing menu with music and three compilations (16 Arcase Games, 17 in 1, 8 in 1 with sports) https://www.youtube.com/watch?v=UvOjiIA0Y7M
+https://inv.nadeko.net/watch?v=ASPdWy-OCOc Video showing box just saying "MiWi", but it's just the usual MiWi Xtra cartridge with 32 in 1. Yet it has the usual newer MiWi shell
+Also shows "7 in 1" cartridge
+Video talking about "the Chinese copy of the Wii, the MiWi" which does show the typical Waixing games, yet also shows an IRL photo and promo image of an iSports branded console
+entirely different from the second iSports Pro, seemingly called SWii
+https://inv.nadeko.net/watch?v=K-xJfYb7LQQ
+https://www.made-in-china.com/showroom/polycom/product-detaildHQnwLxJqmDS/China-16-Bit-Interactive-Wireless-TV-Video-Game-Miwi-Swii-Wii-BS-9908-.html says the serial code is BS-9908
+Excite Sports Games review, showing entirely different white menu from the MiWi Xtra's menus with Overspeed Racing as the music instead of the one on the Super Game compilation,
+and with "ISPORT" logo
+https://inv.nadeko.net/watch?v=o-ffQ1BRTB8
+iSports Pro (second) commercial, shows stock MiWi controllers https://www.youtube.com/watch?v=K1uh1z0wyUI
+iSports review, showing variant of 32-bit Subor software (the one found in Lexibook JG742x) https://www.youtube.com/watch?v=O3axRdClsnc
+iSports Interactive review https://www.youtube.com/watch?v=ioOmfYd9SF4
