@@ -1,3 +1,6 @@
+NES
+IRQ, then NMI, then Reset
+
 --Games appearing in compilations
 Spiderman 2 - 6-in-1 (2004?)
 U&I Man III - (986-872B) 15000-in-1
@@ -8,6 +11,7 @@ U&I Man III - (986-872B) 15000-in-1
 
 --Various references
 https://www.youtube.com/watch?v=bg5Smkeu1xM MOMA console from Cheertone
+
 TechCrunch report of unknown MiWi console, calling it "Eittek MiWi" (that's a different thing) https://web.archive.org/web/20130629225454/https://techcrunch.com/2008/05/12/%E2%80%9Csomeone-just-knocked-off-miwi%E2%80%9D-says-nintendo-in-a-cockney-accent/
 Gizmodo article doing the same thing with presumably the same console https://web.archive.org/web/20200804055205/https://gizmodo.com/miwi-the-dental-hygienists-choice-of-wii-knock-off-389444
 TheGameConsole.com listing of another new MiWi VT168 console with Cube Tech games, also calling it "Eittek MiWi" https://web.archive.org/web/20120402215731/http://www.thegameconsole.com/eittek-miwi/
