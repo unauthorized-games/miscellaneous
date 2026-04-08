@@ -32,10 +32,10 @@ Also shows "7 in 1" cartridge
 Video talking about "the Chinese copy of the Wii, the MiWi" which does show the typical Waixing games, yet also shows an IRL photo and promo image of an iSports branded console
 entirely different from the second iSports Pro, seemingly called SWii
 https://inv.nadeko.net/watch?v=K-xJfYb7LQQ
-https://www.made-in-china.com/showroom/polycom/product-detaildHQnwLxJqmDS/China-16-Bit-Interactive-Wireless-TV-Video-Game-Miwi-Swii-Wii-BS-9908-.html says the serial code is BS-9908
+https://www.made-in-china.com/showroom/polycom/product-detaildHQnwLxJqmDS/China-16-Bit-Interactive-Wireless-TV-Video-Game-Miwi-Swii-Wii-BS-9908-.html says the serial code is BS-9908 (thanks PGT)
 Excite Sports Games review, showing entirely different white menu from the MiWi Xtra's menus with Overspeed Racing as the music instead of the one on the Super Game compilation,
 and with "ISPORT" logo
-https://inv.nadeko.net/watch?v=o-ffQ1BRTB8
+https://inv.nadeko.net/watch?v=o-ffQ1BRTB8 (addition from 2026/04/08: this is rev0 on MAME)
 iSports Pro (second) commercial, shows stock MiWi controllers https://www.youtube.com/watch?v=K1uh1z0wyUI
 iSports review, showing variant of 32-bit Subor software (the one found in Lexibook JG742x) https://www.youtube.com/watch?v=O3axRdClsnc
 iSports Interactive review https://www.youtube.com/watch?v=ioOmfYd9SF4
