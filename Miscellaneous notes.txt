@@ -23,11 +23,11 @@ https://discord.com/channels/162218687514804224/162218687514804224/1499906927780
 https://discord.com/channels/162218687514804224/162218687514804224/1503163487067832320 JungleTac's test screens and their involvement with the Lexibook Retro TV Game Console
 https://discord.com/channels/162218687514804224/162218687514804224/1503227250944770078 Research into the Coolboy AEF-390's physical form
 https://discord.com/channels/162218687514804224/162218687514804224/1503240283469647973 Research into the Coolboy AEF-390's physical form (cont.) and discovery of PVE New game station
-https://discord.com/channels/162218687514804224/162218687514804224/1503443703707074781 "Soybean Story" and "Soy Beans Factory" (Waixing r of Hurry Burry)
+https://discord.com/channels/162218687514804224/162218687514804224/1503443703707074781 "Soybean Story" and "Soy Beans Factory" (Waixing reskin of Hurry Burry)
 
 --OLD MISCONCEPTIONS
 The Hummer was thought to be by "Ex-Hummer Team"
-Pocket Monster (NES) was thought to be by Super Game
+Pocket Monster (FC) was thought to be by Super Game
 99 Layers & Strawberry Shortcake PNP were thought to be by JungleTac
 
 --Various references
@@ -36,13 +36,14 @@ https://www.youtube.com/watch?v=bg5Smkeu1xM MOMA console from Cheertone
 TechCrunch report of unknown MiWi console, calling it "Eittek MiWi" (that's a different thing) https://web.archive.org/web/20130629225454/https://techcrunch.com/2008/05/12/%E2%80%9Csomeone-just-knocked-off-miwi%E2%80%9D-says-nintendo-in-a-cockney-accent/
 Gizmodo article doing the same thing with presumably the same console https://web.archive.org/web/20200804055205/https://gizmodo.com/miwi-the-dental-hygienists-choice-of-wii-knock-off-389444
 TheGameConsole.com listing of another new MiWi VT1682 console with Cube Tech games, also calling it "Eittek MiWi" https://web.archive.org/web/20120402215731/http://www.thegameconsole.com/eittek-miwi/
-French listing of Console Technigame, a rebrand of another MiWi having Subor games (also VT1682 according to Taizou) http://www.x86-secret.com/dossier-40-console_technigame___miwi.html
+French listing of Console Technigame, a rebrand of another MiWi having Subor* games (also VT1682 according to Taizou) http://www.x86-secret.com/dossier-40-console_technigame___miwi.html
 Emulation recording of one MiWi2's 7 in 1 cart bundled with it, same cart in the Multilaser Multigame https://www.youtube.com/watch?v=RTea1hgzg-I
 Video that shows unknown MiWi software running on MAME, showing more clearly the names of the systems in MAME, also proving the 111 & 42 in 2 cart was provided with another system
 called "MiWi 2" https://www.youtube.com/watch?v=dTa-mDLN_dE
 MiWi2 9900 review showing menu with music and three compilations (16 Arcase Games, 17 in 1, 8 in 1 with sports) https://www.youtube.com/watch?v=UvOjiIA0Y7M
 https://inv.nadeko.net/watch?v=ASPdWy-OCOc Video showing box just saying "MiWi", but it's just the usual MiWi Xtra cartridge with 32 in 1. Yet it has the usual newer MiWi shell
 Also shows "7 in 1" cartridge
+
 Video talking about "the Chinese copy of the Wii, the MiWi" which does show the typical Waixing games, yet also shows an IRL photo and promo image of an iSports branded console
 entirely different from the second iSports Pro, seemingly called SWii
 https://inv.nadeko.net/watch?v=K-xJfYb7LQQ
@@ -51,5 +52,8 @@ Excite Sports Games review, showing entirely different white menu from the MiWi 
 and with "ISPORT" logo
 https://inv.nadeko.net/watch?v=o-ffQ1BRTB8 (addition from 2026/04/08: this is rev0 on MAME)
 iSports Pro (second) commercial, shows stock MiWi controllers https://www.youtube.com/watch?v=K1uh1z0wyUI
+
 iSports review, showing variant of 32-bit Subor software (the one found in Lexibook JG742x) https://www.youtube.com/watch?v=O3axRdClsnc
 iSports Interactive review https://www.youtube.com/watch?v=ioOmfYd9SF4
+
+*(2026/05/13 note: at the time i did not know bowling was also available for VT1682)
