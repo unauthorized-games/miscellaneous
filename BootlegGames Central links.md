@@ -1,3 +1,4 @@
+https://discord.com/channels/162218687514804224/162218687514804224/1505055465510535289 (MiWi BS-9700)
 https://discord.com/channels/162218687514804224/173262538820157440/821569937180459059 (Cheertone's PNP shipment to MSI Entertainment)<br>
 https://discord.com/channels/162218687514804224/162218687514804224/800655884610043925 (VT169 and VT269)<br>
 https://discord.com/channels/162218687514804224/162218687514804224/1498657208450285578 (Reply to Xinbaolong Megadrive Mini Arcade Machine (the BL logo was there the whole time!))<br>
