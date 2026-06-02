@@ -16,3 +16,4 @@
 [Research into the Coolboy AEF-390's physical form (cont.) and discovery of PVE New game station](https://discord.com/channels/162218687514804224/162218687514804224/1503240283469647973)
 ["Soybean Story" and "Soy Beans Factory" (Waixing reskin of Hurry Burry)](https://discord.com/channels/162218687514804224/162218687514804224/1503443703707074781)
 [Mention of this list](https://discord.com/channels/162218687514804224/162218687514804224/1507585958474813582)
+[Game Sporz IR Genie spotted in Thailand](https://discord.com/channels/162218687514804224/162218687514804224/1511146829696335903)
