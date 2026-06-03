@@ -1,0 +1,4 @@
+(This is not meant to list ALL topic IDs; it's meant to list some of them in an attempt to reverse engineer PGCF IDs from BGCF ones, since a few threads are only linked in PGCF form and were not archived
+by the Wayback Machine)
+PGCF 10406962
+BGCF topic=1500.msg15686
