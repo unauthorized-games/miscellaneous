@@ -10,6 +10,7 @@
 [Sport TV Game Devices](https://discord.com/channels/162218687514804224/162218687514804224/1499894868749844520)
 [Interstellar Fighter](https://discord.com/channels/162218687514804224/162218687514804224/1499900290646671360)
 [Nice Code VT03 -> Qishenglong](https://discord.com/channels/162218687514804224/162218687514804224/1499906927780561136)
+[WinFun Joystick](https://discord.com/channels/162218687514804224/162218687514804224/1500711215305982103)
 [JungleTac's test screens and their involvement with the Lexibook Retro TV Game Console](https://discord.com/channels/162218687514804224/162218687514804224/1503163487067832320)
 [MiWi BS-9700](https://discord.com/channels/162218687514804224/162218687514804224/1505055465510535289)
 [Research into the Coolboy AEF-390's physical form](https://discord.com/channels/162218687514804224/162218687514804224/1503227250944770078)
