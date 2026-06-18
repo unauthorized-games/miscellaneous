@@ -1,4 +1,4 @@
-#bgc-main
+#bgc-main<br>
 [Moving TV](https://discord.com/channels/162218687514804224/162218687514804224/295214519246913546)<br>
 [VT169 and VT269](https://discord.com/channels/162218687514804224/162218687514804224/800655884610043925)<br>
 [Cheertone's PNP shipment to MSI Entertainment](https://discord.com/channels/162218687514804224/173262538820157440/821569937180459059) <br>
@@ -21,5 +21,5 @@
 [Mention of this list](https://discord.com/channels/162218687514804224/162218687514804224/1507585958474813582)<br>
 [Game Sporz IR Genie spotted in Thailand](https://discord.com/channels/162218687514804224/162218687514804224/1511146829696335903)
 
-#spinkicks
+#spinkicks<br>
 [Waixing Santa Claus music origin](https://discord.com/channels/162218687514804224/249946928475799563/1511843651322646609)
