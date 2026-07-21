@@ -1,0 +1,36 @@
+sei
+ldx #$f9
+txs
+ldx #$00
+stx $40
+stx $2000
+stx $41
+stx $2001
+stx $43
+stx $2013
+stx $45
+stx $2017
+stx $47
+stx $2018
+lda #$12
+sta $211d
+lda #$03
+sta $2106
+lda #$4c
+sta $0100
+lda #$6a
+sta $0101
+lda #$d6
+sta $0102
+lda #$4c
+sta $0103
+lda #$6a
+sta $0104
+lda #$d6
+sta $0105
+lda #$4c
+sta $0106
+lda #$6a
+sta $0107
+lda #$d6
+sta $0108
